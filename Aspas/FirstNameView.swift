@@ -50,9 +50,7 @@ struct FirstNameView: View {
                 Spacer()
                 
                 
-                Button(action: {
-                    // Button action
-                }) {
+                NavigationLink(destination: SwipeView()){
                     Text("Next")
                         .foregroundColor(firstName.count > 0 ? .white:.gray)
                         .padding(.horizontal, 60)

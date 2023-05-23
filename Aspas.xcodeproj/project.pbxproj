@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8703A1442A1C79E50032DD0C /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8703A1432A1C79E50032DD0C /* ProgressView.swift */; };
 		8703A1462A1C7E040032DD0C /* FirstNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8703A1452A1C7E040032DD0C /* FirstNameView.swift */; };
+		8703A1482A1CD9F00032DD0C /* SwipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8703A1472A1CD9F00032DD0C /* SwipeView.swift */; };
 		87E48EB32A1B778D0008DDAC /* AspasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E48EB22A1B778D0008DDAC /* AspasApp.swift */; };
 		87E48EB52A1B778D0008DDAC /* MobileNumberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E48EB42A1B778D0008DDAC /* MobileNumberView.swift */; };
 		87E48EB72A1B778E0008DDAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87E48EB62A1B778E0008DDAC /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		8703A1432A1C79E50032DD0C /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
 		8703A1452A1C7E040032DD0C /* FirstNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstNameView.swift; sourceTree = "<group>"; };
+		8703A1472A1CD9F00032DD0C /* SwipeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeView.swift; sourceTree = "<group>"; };
 		87E48EAF2A1B778D0008DDAC /* Aspas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aspas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87E48EB22A1B778D0008DDAC /* AspasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspasApp.swift; sourceTree = "<group>"; };
 		87E48EB42A1B778D0008DDAC /* MobileNumberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MobileNumberView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				87E48EC02A1B859E0008DDAC /* ColorExtension.swift */,
 				8703A1432A1C79E50032DD0C /* ProgressView.swift */,
 				8703A1452A1C7E040032DD0C /* FirstNameView.swift */,
+				8703A1472A1CD9F00032DD0C /* SwipeView.swift */,
 			);
 			path = Aspas;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				8703A1462A1C7E040032DD0C /* FirstNameView.swift in Sources */,
 				87E48EC12A1B859E0008DDAC /* ColorExtension.swift in Sources */,
 				87E48EB52A1B778D0008DDAC /* MobileNumberView.swift in Sources */,
+				8703A1482A1CD9F00032DD0C /* SwipeView.swift in Sources */,
 				8703A1442A1C79E50032DD0C /* ProgressView.swift in Sources */,
 				87E48EB32A1B778D0008DDAC /* AspasApp.swift in Sources */,
 			);
